@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test Application 01182002</string>
+    <string name="button_test">Click Me!</string>
+    <string name="field_hint">Enter your text here …</string>
+</resources>
